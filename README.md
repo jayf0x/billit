@@ -1,8 +1,3 @@
-# Bakayarooo
+# Invoice creation app
 
-TODO:
-
-- fix evn vars
-- add firebase hosting
-- add icon in UI to show sync progress
-- add database links between none-static objects (users)
+Basic invoicing made to help out some friends who had to pay 20eu/m for software like this.
